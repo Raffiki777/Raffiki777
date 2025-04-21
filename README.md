@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raffiki777
 - 👀 I’m interested in code and art!
 - 🌱 I’m currently learning software engineering...!
-- 💞️ I’m looking to collaborate on python, java, javascript related projects.
+- 💞️ I’m looking to collaborate on python and java related projects.
 - 📫 How to reach me via prmalatjhb024@student.wethinkcode.co.za
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My username actually means "friend", so I am your buddy!
